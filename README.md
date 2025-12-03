@@ -92,6 +92,13 @@ streamlit>=1.28.0
 <img width="2855" height="1443" alt="image" src="https://github.com/user-attachments/assets/771f4616-446d-493b-ab3e-7823e2c1ebaa" />
 <img width="2799" height="1447" alt="image" src="https://github.com/user-attachments/assets/f0084a11-8c9a-4c17-bfeb-a400ff33a511" />
 <img width="2842" height="1400" alt="image" src="https://github.com/user-attachments/assets/76b8f40e-2dae-417a-96a1-6f4a54a74e6a" />
+<img width="2774" height="1442" alt="image" src="https://github.com/user-attachments/assets/18affc5e-b28b-4f90-a232-bc8e65cf2e43" />
+<img width="2855" height="1421" alt="image" src="https://github.com/user-attachments/assets/627014f4-57bf-4beb-85bc-d88952dbc4e8" />
+<img width="2844" height="1456" alt="image" src="https://github.com/user-attachments/assets/b38b60d9-47a5-4e5a-9d46-8cac6fa52a22" />
+<img width="2858" height="1416" alt="image" src="https://github.com/user-attachments/assets/30858ed3-a294-423c-b52f-4ce0073e82b3" />
+<img width="2840" height="1433" alt="image" src="https://github.com/user-attachments/assets/12b7fbfb-6269-44cf-bbb2-d0a4d9f097b4" />
+<img width="2837" height="1397" alt="image" src="https://github.com/user-attachments/assets/680b06b2-e1e4-45cb-85ab-f49de5c02880" />
+<img width="2843" height="1448" alt="image" src="https://github.com/user-attachments/assets/b7cfa70b-d3c6-40f0-82be-d3b06c549696" />
 
 **Components:**
 1. **Header** - Gradient title with author credit
