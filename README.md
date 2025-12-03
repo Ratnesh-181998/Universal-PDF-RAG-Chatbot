@@ -107,7 +107,15 @@ streamlit>=1.28.0
 4. **Tabbed Navigation** - Chat, Info, Logs, Notes
 
 ### Chat Tab
-![Chat Interface](https://via.placeholder.com/800x400?text=Chat+Interface+Screenshot)
+<img width="2860" height="1449" alt="image" src="https://github.com/user-attachments/assets/79480816-71ec-4f26-9350-a8e2e8715d3b" />
+<img width="2839" height="1404" alt="image" src="https://github.com/user-attachments/assets/7e0b862a-ea2f-4f5f-97a0-586eedb39d5a" />
+<img width="2868" height="1461" alt="image" src="https://github.com/user-attachments/assets/aad6fddf-56e2-42b0-a4aa-492d967ba896" />
+<img width="2856" height="1437" alt="image" src="https://github.com/user-attachments/assets/08d94d55-7054-488d-b421-4d96b578a086" />
+<img width="2857" height="1410" alt="image" src="https://github.com/user-attachments/assets/09a97486-7baf-49a8-8db1-87dfba535d3d" />
+<img width="2861" height="1446" alt="image" src="https://github.com/user-attachments/assets/216499ef-88f1-4da2-a30c-97726694c26b" />
+<img width="2832" height="1466" alt="image" src="https://github.com/user-attachments/assets/3729c804-5f44-401c-b52c-d9160c00ca91" />
+<img width="2813" height="1434" alt="image" src="https://github.com/user-attachments/assets/c7745b93-d27c-4158-af7c-9572cb1b8cfe" />
+<img width="2320" height="1259" alt="image" src="https://github.com/user-attachments/assets/4a01fa43-18ac-49d0-88c0-dcc9415dedb3" />
 
 **Features:**
 - **Text Area Input** - Dark-themed query box
@@ -118,7 +126,7 @@ streamlit>=1.28.0
 - **Debug Context** - View retrieved document chunks
 
 ### Sidebar
-![Sidebar](https://via.placeholder.com/800x300?text=Sidebar+Screenshot)
+<img width="2737" height="1429" alt="image" src="https://github.com/user-attachments/assets/0586ca7d-bdee-42a7-b82f-c4aa68c7fc00" />
 
 **Controls:**
 - **Configuration Display** - Embedding model, chunk size, Top-K
