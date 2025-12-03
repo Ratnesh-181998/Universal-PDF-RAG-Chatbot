@@ -85,7 +85,10 @@ streamlit>=1.28.0
 ## 🎨 UI Overview
 
 ### Main Interface
-![Main UI](https://via.placeholder.com/800x400?text=Main+Interface+Screenshot)
+<img width="2872" height="1432" alt="image" src="https://github.com/user-attachments/assets/cde93d74-ddf2-403a-9af0-6c5ed62abc2d" />
+<img width="2855" height="1443" alt="image" src="https://github.com/user-attachments/assets/771f4616-446d-493b-ab3e-7823e2c1ebaa" />
+<img width="2799" height="1447" alt="image" src="https://github.com/user-attachments/assets/f0084a11-8c9a-4c17-bfeb-a400ff33a511" />
+<img width="2842" height="1400" alt="image" src="https://github.com/user-attachments/assets/76b8f40e-2dae-417a-96a1-6f4a54a74e6a" />
 
 **Components:**
 1. **Header** - Gradient title with author credit
