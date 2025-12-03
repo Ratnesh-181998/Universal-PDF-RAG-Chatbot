@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Streamlit
+.streamlit/
+!.streamlit/secrets.toml
+
+# FAISS Index
+faiss_index_storage/
+*.index
+*.pkl
+
+# Temporary files
+*.tmp
+*.temp
+temp_*/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Test and debug files
+test_*.py
+debug_*.py
+*_test.py
+create_ml_interview_pdf.py
+percentage*.py
+temp_loader.py
+app_auto_load.py
+yulu_app.py
+
+# Sample PDFs (too large for git)
+*.pdf
+!docs/*.pdf
