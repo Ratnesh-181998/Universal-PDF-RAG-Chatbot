@@ -50,9 +50,12 @@ A production-ready **Retrieval-Augmented Generation (RAG)** system that enables 
 
 ---
 
-## 🌐 Live Demo
+## 🌐🎬 Live Demo
+🚀 **Try it now:**
+- **Streamlit Profile** - https://share.streamlit.io/user/ratnesh-181998
+- **Project Demo** - https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/
 
-🚀 **Try it now:** [Universal RAG Chatbot on Streamlit Cloud](https://your-app-url.streamlit.app)
+ rag langchain streamlit python llm chatbot faiss generative-ai groq llama-3 pdf-parser vector-search
 
 > *Upload a PDF and ask questions in seconds!*
 
@@ -451,7 +454,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 - 📱 Phone: +91-947XXXXX46
 
 ### Project Links
-- 🌐 **Live Demo:** [Streamlit Cloud](https://universal-pdf-rag-chatbot.streamlit.app)
+- 🌐 **Live Demo:** [Streamlit Cloud](https://universal-pdf-rag-chatbot-mhsi4ygebe6hmq3ij6d665.streamlit.app/)
 - 📖 **Documentation:** [GitHub Wiki](https://github.com/Ratnesh-181998/Universal-PDF-RAG-Chatbot/wiki)
 - 🐛 **Issue Tracker:** [GitHub Issues](https://github.com/Ratnesh-181998/Universal-PDF-RAG-Chatbot/issues)
 - ⭐ **Star this repo** if you find it useful!
