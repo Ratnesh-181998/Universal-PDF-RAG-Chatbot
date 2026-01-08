@@ -61,6 +61,13 @@ A production-ready **Retrieval-Augmented Generation (RAG)** system that enables 
 
 ---
 
+### 🎬 Live Project Demo
+> Experience the full flow:
+
+![Project Demo Walkthrough](combined_demo.gif)
+
+---
+
 ## 🛠 Tech Stack
 
 | Layer | Technology | Purpose |
